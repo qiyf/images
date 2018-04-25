@@ -1,2 +1,1 @@
-# images
-Images for DRAGON
+# Images for DRAGON
